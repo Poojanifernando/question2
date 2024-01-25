@@ -4,7 +4,7 @@ This project is developed using React js.
 ## how to run project
 1. clone the git code
 2. open the project using vs code or any other ide
-3. redirect to frontend folder and then my-clinic-app folder (redirect to necessary folder)
+3. redirect to frontend folder(redirect to necessary folder)
 4. open a terminl
 5. run command to install all packages "npm install"
 6. run the commad to run the project "npm start."
