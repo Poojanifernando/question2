@@ -1,0 +1,56 @@
+
+
+.pagetitle-prescription{
+  text-align: center;
+  color: #071a81;
+  font-size: 40px;
+}
+
+
+/* styles for add form */
+.form-container-prescription {
+    max-width: 600px; /* Set the maximum width for the form */
+    margin: 20px auto; /* Center the form on the page */
+    padding: 20px;
+    border: 4px solid #ddd; /* Add a border to the form */
+    border-radius: 5px; /* Add rounded corners to the form */
+  }
+
+  .form-label-prescription {
+    display: block; /* Make labels block elements for better organization */
+    margin-bottom: 8px; /* Add spacing between labels */
+  }
+  
+  .form-input-prescription {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px; /* Add spacing between input elements */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  }
+
+  .form-button-prescription {
+    background-color: #0555ac; /* Blue color for the button */
+    color: #fff; /* White text for the button */
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px; /* Rounded corners for the button */
+    cursor: pointer;
+  }
+
+  /* Search label styles */
+.search-bar {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 20px;
+  font-weight: bold; /* Change font weight for emphasis */
+  color: #007bff; /* Blue color for emphasis */
+}
+
+/* Search bar styles */
+.search-input[type="text"] {
+  width: 25%;
+  padding: 8px;
+  border-radius: 15px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
